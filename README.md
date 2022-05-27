@@ -28,7 +28,12 @@ FECHA
 ## 1. OBJETIVOS:
 #### 1.1 OBJETIVO GENERAL:
 
+•	Examinar razonar las ideas de Kirchhoff las cuales ayudaran a entender mejor el método de mallas para su correcto uso en los siguientes ejercicios mediante búsqueda de información bibliográfica.
+
+•	 Analizar y resolver ejercicios aplicando el método de mallas de Kirchhoff para completar los cálculos realizados en los circuitos eléctricos mediante la experimentación y el uso de las fórmulas planteadas por la ley de Kirchhoff.
+
 #### 1.2 OBJETIVO ESPECIFICOS:
+
 
 ## 2. MARCO TEÓRICO
 
@@ -60,7 +65,15 @@ Al analizar mallas se debe aplicar la ley de Tensiones de Kirchhoff (LTK) y la l
 
 ## 6. CONCLUSIONES
 
+•	Las leyes de Kirchhoff con el método de mallas se aplican mucho formulas que ayudan al técnico a identificar cuanto voltaje es necesario para que pase dicha cantidad de corriente por cada resistencia determinar cada uno de este ayuda a que el circuito no tenga fallos y de una buena manera hacerla localización de dichos fallos.
+
+•	El método de mallas una estructura que en el circuito se debe guiarse de las formulas este nos ayuda a separar nuestro circuito según su estructura y componentes que la conforman teniendo en cuenta que no importa la cantidad de resistencia o de voltaje trabaja en dicho circuito si lo necesario es determinar la sumatoria de corriente y resistencia.
+
 ## 7. RECOMENDACIONES:
+
+•	Al momento de realizar los cálculos tener en cuenta el tipo de multímetro y en que parte del multímetro se desea hacer la consulta ya que si se hace mal uso de este se podría perder el multímetro las protoboards tratar de distribuir bien sus funciones y no poner todo en un solo lugar.
+
+•	En los cálculos tener muy en cuenta la formula del método de mallas ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
 
 ## 8. BIBLIOGRAFÍA
 
