@@ -62,6 +62,7 @@ Estos componentes, ganan o pierden energía dependiendo del tipo de elemento. La
 Al analizar mallas se debe aplicar la ley de Tensiones de Kirchhoff (LTK) y la ley de Ohm a cada malla, teniendo como resultado sistemas de ecuaciones dependiendo de las mallas que nos dé el ejercicio.
 
 2.5. PROCEDIMIENTO 
+
 2.5.1 Implemente el circuito que se presenta en la figura 2.1
 
 ![image](https://user-images.githubusercontent.com/104999420/171224629-d6fffb2e-1a68-4336-a697-fde37948de59.png)
@@ -73,6 +74,7 @@ Figura 2.1 Circuitos para el análisis de mallas.
 Figura 2.2 Circuitos para el análisis de mallas con dirección de corrientes.
 
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla.
+
 Ecuación de la malla 1
 
 <img width="201" alt="image" src="https://user-images.githubusercontent.com/104999420/171225045-e2370abd-b568-406c-a6d2-7835db318e04.png">
