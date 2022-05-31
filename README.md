@@ -69,7 +69,7 @@ Al analizar mallas se debe aplicar la ley de Tensiones de Kirchhoff (LTK) y la l
 
 Figura 2.1 Circuitos para el análisis de mallas.
 
-![image](https://user-images.githubusercontent.com/104999420/171224753-55486a92-f6c0-45aa-884c-7bdebce34235.png)
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/104999420/171228195-7cffb1b9-069a-4433-be94-edfb0ded2c1f.png">
 
 Figura 2.2 Circuitos para el análisis de mallas con dirección de corrientes.
 
