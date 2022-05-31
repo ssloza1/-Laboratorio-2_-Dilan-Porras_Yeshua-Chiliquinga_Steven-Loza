@@ -123,6 +123,8 @@ Calcular errores de las mediciones y comentar los resultados.
 
 ## 3. VIDEO
 
+https://youtu.be/t01a65fATNw
+
 ## 4. CONCLUSIONES
 
 •	Las leyes de Kirchhoff con el método de mallas se aplican mucho formulas que ayudan al técnico a identificar cuanto voltaje es necesario para que pase dicha cantidad de corriente por cada resistencia determinar cada uno de este ayuda a que el circuito no tenga fallos y de una buena manera hacerla localización de dichos fallos.
